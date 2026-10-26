@@ -1,0 +1,6 @@
+{
+  "name": "ad test web",
+  "description": "A plain white single-page website for testing ad formats and monitoring ad performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
